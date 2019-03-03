@@ -1,0 +1,144 @@
+<TEI> 
+    <teiHeader>  
+        <fileDesc>
+            <titleStmt>
+                <title>В.И. Майков. ЕЛИСЕЙ, ИЛИ РАЗДРАЖЕННЫЙ ВАКХ (стр.89-91)</title>
+            </titleStmt>
+            <respStmt>
+                <persName>Пластун Наталия</persName>
+                <resp>Создание TEI документа, выделение в тексте персоналий</resp>
+            </respStmt>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson type="literary">
+                    <person xml:id="YA">
+                        <persName>Я</persName>
+                    </person>
+                    <person xml:id="ERM">
+                        <persName>Ермий</persName>
+                    </person>
+                    <person xml:id="CER">
+                        <persName>Церера</persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>		
+        Которые сердцам опаснее отравы.
+        Теперь <person xml:id="YA"><persName>я</persName></person> возглашу: «О времена! о нравы!
+        О воспитание! пороков всех отец,
+        Когда явится твой, когда у нас конец,
+        И скоро ли уже такие дни настанут,
+        Когда торжествовать невежды перестанут?
+        Нет, знать, скорей судьба мой краткий век промчит,
+        Чем просвещение те нравы излечит,
+        Которые вранья с добром не различают,
+        Иль воскресения уж мертвых быть не чают,
+        И не страшатся быть истязаны за то,
+        Что <persName>Ломоносова</persName> считают ни за что?
+        Постраждут, как бы в том себя ни извиняли,
+        Коль славного певца с плюгавцем соравняли.
+        Но мщенья, кажется, довольно им сего,
+        Что бредни в свете их не стоят ничего.
+        У славного певца тем славы не умалит,
+        Когда его какой невежда не похвалит;
+        Преобратится вся хула ему же в смех.
+        Но и твердить о сих страмцах, <person xml:id="YA"><persName>мне</persName></person> мнится, грех;
+        А славнейших певцов стихи пребудут громки,
+        Коль будут их читать разумные потомки».
+        
+        Постой, о муза! ты уж сшиблася с пути,
+        И бредни таковы скорее прекрати,
+        В нравоученье ты некстати залетела;
+        Довольно про тебя еще осталось дела.
+        Скажи мне, что потом <person xml:id="ERM"><persName>посланник</persName></person> учинил?
+        Боюсь <person xml:id="YA"><persName>я</persName></person>, чтобы он чего не проронил
+        И не подвержен был он гневу от <persName>Зевеса</persName>.
+        Болтлива ты весьма, а он прямой повеса.
+        
+        Тут более <person xml:id="ERM"><persName>Ермий</persName></person> промедлить не хотел,
+        <person xml:id="ERM"><persName>Он</persName></person>, встрепенувшися, к  <person xml:id="CER"><persName>Церере</persName></person> полетел;
+        Всю влагу воздуха крылами рассекает,
+        И наконец <person xml:id="ERM"><persName>Ермий</persName></person> <person xml:id="CER"><persName>Цереру</persName></person> обретает.
+        Не в праздности сия <person xml:id="CER"><persName>богиня</persName></person> дни вела,
+        Но изряднехонько и домиком жила:
+        <person xml:id="CER"><persName>Она</persName></person> тогда, восстав со дневным вдруг светилом,
+        Трудилась на гумне с сосновым молотилом,
+        Под коим охали пшеничные снопы.
+        <person xml:id="ERM"><persName>Посол</persName></person> узрел <person xml:id="CER"><persName>ее</persName></person>, направил к <person xml:id="CER"><persName>ней</persName></person> стопы
+        
+        И дело своего посольства отправляет.
+        Отвеся <person xml:id="CER"><persName>ей</persName></person> поклон, то место оставляет
+        И прямо от <person xml:id="CER"><persName>нее</persName></person> к полиции летел,
+        Во врана превратясь, на кровлю тамо сел,
+        Не зная, как <person xml:id="ERM"><persName>ему</persName></person> во оную забраться:
+        Десятских множество, и, если с ними драться,
+        Они <person xml:id="ERM"><persName>его</persName></person> дубьем, конечно, победят
+        И, как озорника, туда же засадят.
+        
+        Подобно как орел, когда от глада тает,
+        Над жареной вокруг говядиной летает,
+        Котора у мордвы на угольях лежит, —
+        Летая так, <person xml:id="ERM"><persName>Ермий</persName></person> с задору весь дрожит
+        И мнит, коль ямщика <person xml:id="ERM"><persName>он</persName></person> в добычь не получит,
+        Тогда <person xml:id="ERM"><persName>его</persName></person> <persName>Зевес</persName> как дьявола размучит,
+        <person xml:id="ERM"><persName>Он</persName></person> рек: «Готов <person xml:id="ERM"><persName>я</persName></person> сам в полицию попасть,
+        Чем от Зевесовых <person xml:id="ERM"><persName>мне</persName></person> рук терпеть напасть,
+        И прямо говорю, каков уж <person xml:id="ERM"><persName>я</persName></person> ни стану,
+        Тебя <person xml:id="ERM"><persName>я</persName></person>, <person xml:id="CER"><persName>душечка</persName></person> моя, ямщик, достану».
+        Пустые <person xml:id="ERM"><persName>он</persName></person> слова недолго продолжал,
+        Подобно как ядро из пушки завизжал;
+        Спустился <person xml:id="ERM"><persName>он</persName></person> на низ и трижды встрепенулся,
+        Уже по-прежнему в свой вид перевернулся,
+        <person xml:id="ERM"><persName>Он</persName></person> крылья под носом, как черный ус, кладет,
+        Одежду превратил в капральский <person xml:id="ERM"><persName>он</persName></person> колет,
+        А жезл в подобие его предлинной шпаги,—
+        И тако наш <person xml:id="ERM"><persName>Ермий</persName></person> исполнен быв отваги,
+        Приходит с смелостью на полицейский двор,
+        Быв подлинно тогда <person xml:id="ERM"><persName>посол</persName></person>, <person xml:id="ERM">капрал</persName></person> и <person xml:id="ERM">вор</persName></person>.
+
+        ПЕСНЬ ВТОРАЯ
+        Итак, уже <person xml:id="ERM"><persName>Ермий</persName></person> капралу стал подобен,
+        А обмануть всегда и всякого способен;
+        Не только чтоб цыган или коварный грек,
+        Не мог бы и француз провесть <person xml:id="ERM"><persName>его</persName></person> вовек.
+        Такие <person xml:id="ERM"><persName>он</persName></person> имел проворства и затеи,
+        Каких не вымыслят и сами иудеи.
+        
+        Когда утухнула вечерняя заря,
+        Покрылись темнотой и суша и моря,
+        По улицам шуметь буяны перестали
+        И звезды частые по небу возблистали,
+        Тогда <person xml:id="ERM"><persName>посланник</persName></person> сей темничну дверь отверз
+        И вшел не яко тать, но яко воин влез;
+        Тут петли у дверей хотя и заскрипели,
+        Но караульные, разиня рты, храпели;
+        <person xml:id="ERM"><persName>Ермий</persName></person> однако же, чтоб их не разбудить,
+        В темницу лествицей тихонько стал сходить,
+        Иль красться, ежели то вымолвить по-русски;
+        К несчастью, лествичны ступени были узки,
+        И тако сей тогда <person xml:id="ERM"><persName>проворный самый бог</persName></person>
+        Споткнулся, полетел, упал и сделал жох,
+        А попросту сказать — на заднице скатился,
+        Чем сырной всей конец неделе учинился.
+        И если б не <person xml:id="ERM"><persName>Ермий</persName></person>, но был бы сам капрал,
+        Конечно бы свою <person xml:id="ERM"><persName>он</persName></person> спину изодрал
+        И сделал позвонкам немало бы ущерба;
+        Не обойтися бы служивому без герба,
+        А попросту сказать — не быть бы без тавра
+        И не дочесться бы девятого ребра;
+        Но <person xml:id="ERM"><persName>он</persName></person>, как божество, не чувствовал сей боли,
+        Скатился без вреда в темничные юдоли,
+        Где скука, распростря свою ужасну власть,
+        Предвозвещала всем колодникам напасть;
+        Там зрелися везде томления и слезы,
+        И были там на всех колодки и железы;
+        Там нужных не было для жителей потреб,
+        Вода их питие, а пища только хлеб,
+        Не чермновидные стояли тамо ложи,
+        Висели по стенам циновки и рогожи,
+        Раздранны рубища — всегдашний их наряд
+    </text>
+</TEI>
